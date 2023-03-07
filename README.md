@@ -1,5 +1,8 @@
 <div align="center">
+ <h2 align="center">Hi there, I'm tossici</h2>
 
+<div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/697008834463531069)](https://discord.com/users/697008834463531069)
 
 <p align="center">
